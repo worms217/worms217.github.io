@@ -762,11 +762,6 @@ blockquote {
 }
 
 .home {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 80vh;
-    flex-direction: column;
     font-weight: lighter;
     line-height: 1.4;
     color: #505050;
